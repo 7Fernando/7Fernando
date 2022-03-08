@@ -11,7 +11,7 @@
         <br>
         <p>
             <strong> 
-               👨‍💻 Soy Programador Web Full Stack, apasionado por las nuevas tecnologías en todos los campos. Actualmente estoy trabajando en mi proyecto final del bootcamp intensivo Soy Henry. ¡Un e-commerce!
+               👨‍💻 Soy Programador Web Full Stack, apasionado por las nuevas tecnologías en todos los campos. Actualmente me encuentro desarrollando el proyecto final del bootcamp intensivo Soy Henry. ¡Un e-commerce!
             </strong>
         </p>
          <p>
