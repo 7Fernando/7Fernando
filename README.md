@@ -20,14 +20,17 @@
             </strong>
         </p>
         <ul>
+            <li>✔️ React</li> 
             <li>✔️ JavaScript</li>
-            <li>✔️ React</li>  
-            <li>✔️ HTML</li>  
-            <li>✔️ CSS</li>
-            <li>✔️ CSS Modules</li>
+            <li>✔️ Typescript</li>  
+            <li>✔️ Chakra UI</li>
             <li>✔️ Redux</li>
             <li>✔️ NodeJS & Express</li>
             <li>✔️ Sequelize & Postgres</li>
+            <li>✔️ Prisma & Postgres</li>
+            <li>✔️ HTML</li>  
+            <li>✔️ CSS</li>
+            <li>✔️ CSS Modules</li>
         </ul>
     </div>
 </div>
