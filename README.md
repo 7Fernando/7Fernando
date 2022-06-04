@@ -11,7 +11,7 @@
         <br>
         <p>
             <strong> 
-               👨‍💻 Soy Programador Web Full Stack, apasionado por las nuevas tecnologías en todos los campos. Actualmente me encuentro desarrollando el proyecto final del bootcamp intensivo Soy Henry. ¡Un e-commerce!
+               👨‍💻 Soy Programador Web Full Stack, apasionado por las nuevas tecnologías.
             </strong>
         </p>
          <p>
@@ -21,10 +21,10 @@
         </p>
         <ul>
             <li>✔️ React</li> 
-            <li>✔️ JavaScript</li>
             <li>✔️ Typescript</li>  
-            <li>✔️ Chakra UI</li>
             <li>✔️ Redux</li>
+            <li>✔️ JavaScript</li>
+            <li>✔️ Chakra UI</li>
             <li>✔️ NodeJS & Express</li>
             <li>✔️ Sequelize & Postgres</li>
             <li>✔️ Prisma & Postgres</li>
