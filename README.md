@@ -10,7 +10,7 @@
     <div align=left>
         <br>
         <p>
-            <strong> 
+            <strong > 
                👨‍💻 Soy Programador Web Full Stack, apasionado por las nuevas tecnologías.
             </strong>
         </p>
@@ -19,18 +19,26 @@
                 Tecnologías:
             </strong>
         </p>
-        <ul>
-            <li>✔️ React</li> 
-            <li>✔️ Typescript</li>  
-            <li>✔️ Redux</li>
-            <li>✔️ JavaScript</li>
-            <li>✔️ Chakra UI</li>
-            <li>✔️ NodeJS & Express</li>
-            <li>✔️ Sequelize & Postgres</li>
-            <li>✔️ Prisma & Postgres</li>
-            <li>✔️ HTML</li>  
-            <li>✔️ CSS</li>
-            <li>✔️ CSS Modules</li>
+        <ul style="list-style:none; display:flex;">
+            <div style="margin-right:15px"> 
+                <li>✔️ React</li> 
+                <li>✔️ Typescript</li>  
+                <li>✔️ Redux</li>
+                <li>✔️ JavaScript</li>
+                <li>✔️ Chakra UI</li>
+                <li>✔️ CSS Modules</li>
+                <li>✔️ SASS</li>
+                <li>✔️ CSS</li>
+                <li>✔️ HTML</li> 
+            </div>
+            <div>
+                <li>✔️ Node  JS</li>
+                <li>✔️ Express JS</li>
+                <li>✔️ Sequelize & PostgreSQL</li>
+                <li>✔️ Prisma & PostgreSQL</li>
+                <li>✔️ PostgreSQL</li>
+                <li>✔️ SQL</li>
+            </div>
         </ul>
     </div>
 </div>
